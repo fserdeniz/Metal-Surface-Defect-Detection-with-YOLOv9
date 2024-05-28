@@ -1,9 +1,9 @@
 # Metal Surface Defect Detection with YOLOv9
 
-This repository contains the project I developed as part of the Engineering Design-2 course at Kocaeli University. The project focuses on defect detection on metal surfaces and aims to provide solutions with using YOLOv9.
+This Notebook contains the project I developed as part of the Engineering Design-2 course at Kocaeli University. The project focuses on defect detection on metal surfaces and aims to provide solutions with using YOLOv9.
 
 
-This notebook is a implementation of a tutorial, which is written by [Piotr Skalski & James Gallagher.](https://blog.roboflow.com/train-yolov9-model/) 
+This Notebook is a implementation of a tutorial, which is written by [Piotr Skalski & James Gallagher.](https://blog.roboflow.com/train-yolov9-model/) 
 
 ## Table of Contents
 
