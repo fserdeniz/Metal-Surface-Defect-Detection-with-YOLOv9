@@ -16,6 +16,8 @@ The YOLOv9 algorithm, short for "You Only Look Once version 9," is a deep learni
 
 The purpose of utilizing YOLOv9 for defect detection on metal surfaces is to enhance quality control processes in industrial manufacturing. By automating the detection of defects, manufacturers can identify flaws in metal components more efficiently and accurately. This allows for timely intervention to address issues, thereby improving product quality, reducing production costs, and ensuring compliance with quality standards.
 
+This notebook is a implementation of a tutorial, which is written by [Piotr Skalski & James Gallagher](https://blog.roboflow.com/train-yolov9-model/)  
+
 ## Technologies Used
 
 The project uses the following technologies and tools:
