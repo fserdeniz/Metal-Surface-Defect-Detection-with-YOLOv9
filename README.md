@@ -38,7 +38,7 @@ To run the project on your local machine, follow these steps:
 
 ## Contributors
 
-I also extend my gratitude to my project advisor Ayhan Küçükmanisa and my friend İlhan Kaan Yazıcıoğlu.
+I also extend my gratitude to my project advisor [Ayhan Küçükmanisa](https://tr.linkedin.com/in/ayhan-k%C3%BC%C3%A7%C3%BCkmanisa-6a103a83?original_referer=https%3A%2F%2Fwww.google.com%2F) and my friend [İlhan Kaan Yazıcıoğlu](https://tr.linkedin.com/in/ilhan-kaan-yaz%C4%B1c%C4%B1o%C4%9Flu).
 
 ## License
 
